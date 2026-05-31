@@ -1,0 +1,91 @@
+{
+  "food_logs": [
+    {
+      "date": "2024-02-05",
+      "time": "Breakfast",
+      "food_name": "燕麦粥",
+      "calories": 300,
+      "protein": 12,
+      "carbs": 55,
+      "fat": 6,
+      "note": "早餐"
+    },
+    {
+      "date": "2024-02-05",
+      "time": "Breakfast",
+      "food_name": "香蕉",
+      "calories": 105,
+      "protein": 1.3,
+      "carbs": 27,
+      "fat": 0.4,
+      "note": "早餐配菜"
+    },
+    {
+      "date": "2024-02-05",
+      "time": "Lunch",
+      "food_name": "鸡胸肉",
+      "calories": 231,
+      "protein": 43.5,
+      "carbs": 0,
+      "fat": 5,
+      "note": "午餐主菜"
+    },
+    {
+      "date": "2024-02-05",
+      "time": "Lunch",
+      "food_name": "糙米饭",
+      "calories": 216,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 1.8,
+      "note": "午餐主食"
+    },
+    {
+      "date": "2024-02-05",
+      "time": "Lunch",
+      "food_name": "西兰花",
+      "calories": 55,
+      "protein": 3.7,
+      "carbs": 11,
+      "fat": 0.6,
+      "note": "午餐配菜"
+    },
+    {
+      "date": "2024-02-05",
+      "time": "Dinner",
+      "food_name": "三文鱼",
+      "calories": 206,
+      "protein": 22,
+      "carbs": 0,
+      "fat": 12,
+      "note": "晚餐主菜"
+    },
+    {
+      "date": "2024-02-05",
+      "time": "Dinner",
+      "food_name": "红薯",
+      "calories": 180,
+      "protein": 2,
+      "carbs": 41,
+      "fat": 0.2,
+      "note": "晚餐主食"
+    },
+    {
+      "date": "2024-02-05",
+      "time": "Snack",
+      "food_name": "希腊酸奶",
+      "calories": 100,
+      "protein": 10,
+      "carbs": 6,
+      "fat": 3,
+      "note": "下午加餐"
+    }
+  ],
+  "description": "示例饮食记录 - 展示一天的完整饮食记录，包含早餐、午餐、晚餐和加餐",
+  "total_calories": 1393,
+  "total_protein": 98.5,
+  "total_carbs": 185,
+  "total_fat": 29,
+  "usage": "在记录页面的饮食标签中手动输入，或使用 import_sample_data.py 脚本导入"
+}
+

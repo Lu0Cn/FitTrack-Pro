@@ -1,0 +1,49 @@
+{
+  "weight_logs": [
+    {
+      "date": "2024-01-01",
+      "weight": 76.5,
+      "body_fat": 18.5,
+      "muscle_rate": 35.2,
+      "note": "新年第一天，开始记录"
+    },
+    {
+      "date": "2024-01-08",
+      "weight": 75.8,
+      "body_fat": 18.2,
+      "muscle_rate": 35.5,
+      "note": "第一周，体重下降"
+    },
+    {
+      "date": "2024-01-15",
+      "weight": 75.2,
+      "body_fat": 18.0,
+      "muscle_rate": 35.8,
+      "note": "第二周，继续下降"
+    },
+    {
+      "date": "2024-01-22",
+      "weight": 74.8,
+      "body_fat": 17.8,
+      "muscle_rate": 36.0,
+      "note": "第三周，效果明显"
+    },
+    {
+      "date": "2024-01-29",
+      "weight": 74.5,
+      "body_fat": 17.5,
+      "muscle_rate": 36.2,
+      "note": "第四周，接近目标"
+    },
+    {
+      "date": "2024-02-05",
+      "weight": 74.0,
+      "body_fat": 17.2,
+      "muscle_rate": 36.5,
+      "note": "第五周，达成阶段性目标"
+    }
+  ],
+  "description": "示例体重记录 - 展示6周的体重变化趋势，包含体脂率和肌肉率",
+  "usage": "在记录页面的体重标签中手动输入，或使用 import_sample_data.py 脚本导入"
+}
+

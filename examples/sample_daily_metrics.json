@@ -1,0 +1,63 @@
+{
+  "daily_metrics": [
+    {
+      "date": "2024-02-01",
+      "sleep_hours": 7.5,
+      "water_ml": 2000,
+      "mood_score": 8,
+      "stress_level": 3,
+      "note": "状态良好"
+    },
+    {
+      "date": "2024-02-02",
+      "sleep_hours": 8.0,
+      "water_ml": 2200,
+      "mood_score": 9,
+      "stress_level": 2,
+      "note": "睡眠充足，心情很好"
+    },
+    {
+      "date": "2024-02-03",
+      "sleep_hours": 6.5,
+      "water_ml": 1800,
+      "mood_score": 7,
+      "stress_level": 4,
+      "note": "睡眠不足"
+    },
+    {
+      "date": "2024-02-04",
+      "sleep_hours": 7.0,
+      "water_ml": 2000,
+      "mood_score": 8,
+      "stress_level": 3,
+      "note": "恢复正常"
+    },
+    {
+      "date": "2024-02-05",
+      "sleep_hours": 8.5,
+      "water_ml": 2500,
+      "mood_score": 9,
+      "stress_level": 2,
+      "note": "最佳状态"
+    },
+    {
+      "date": "2024-02-06",
+      "sleep_hours": 7.5,
+      "water_ml": 2100,
+      "mood_score": 8,
+      "stress_level": 3,
+      "note": "稳定"
+    },
+    {
+      "date": "2024-02-07",
+      "sleep_hours": 6.0,
+      "water_ml": 1900,
+      "mood_score": 6,
+      "stress_level": 5,
+      "note": "压力较大"
+    }
+  ],
+  "description": "示例日常指标 - 展示一周的睡眠、饮水、心情和压力记录",
+  "usage": "在记录页面的日常指标标签中手动输入，或使用 import_sample_data.py 脚本导入"
+}
+

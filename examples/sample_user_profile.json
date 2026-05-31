@@ -1,0 +1,15 @@
+{
+  "user_profile": {
+    "name": "张三",
+    "gender": "Male",
+    "birth_date": "1990-05-15",
+    "height": 175.0,
+    "current_weight": 75.0,
+    "target_weight": 70.0,
+    "activity_level": "Moderately active (3-5 days/week)",
+    "deepseek_api_key": "your-api-key-here"
+  },
+  "description": "示例用户资料 - 30岁男性，身高175cm，当前体重75kg，目标体重70kg，中等活动水平",
+  "usage": "在设置页面中手动输入这些信息，或使用 import_sample_data.py 脚本导入"
+}
+

@@ -1,0 +1,56 @@
+{
+  "exercise_logs": [
+    {
+      "date": "2024-02-03",
+      "exercise_type": "跑步",
+      "duration_minutes": 30,
+      "calories_burned": 300,
+      "note": "晨跑"
+    },
+    {
+      "date": "2024-02-04",
+      "exercise_type": "力量训练",
+      "duration_minutes": 60,
+      "calories_burned": 400,
+      "note": "健身房训练"
+    },
+    {
+      "date": "2024-02-05",
+      "exercise_type": "游泳",
+      "duration_minutes": 45,
+      "calories_burned": 350,
+      "note": "游泳训练"
+    },
+    {
+      "date": "2024-02-06",
+      "exercise_type": "骑行",
+      "duration_minutes": 60,
+      "calories_burned": 450,
+      "note": "户外骑行"
+    },
+    {
+      "date": "2024-02-07",
+      "exercise_type": "瑜伽",
+      "duration_minutes": 30,
+      "calories_burned": 150,
+      "note": "放松训练"
+    },
+    {
+      "date": "2024-02-08",
+      "exercise_type": "HIIT",
+      "duration_minutes": 25,
+      "calories_burned": 320,
+      "note": "高强度间歇训练"
+    },
+    {
+      "date": "2024-02-09",
+      "exercise_type": "跑步",
+      "duration_minutes": 40,
+      "calories_burned": 380,
+      "note": "长距离跑步"
+    }
+  ],
+  "description": "示例运动记录 - 展示一周的运动记录，包含不同类型的运动",
+  "usage": "在记录页面的运动标签中手动输入，或使用 import_sample_data.py 脚本导入"
+}
+
